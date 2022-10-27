@@ -7,6 +7,6 @@ For GitHub token click [here](https://github.com/settings/tokens)
 
 ### Includings
 
-VanillaJS
-Bootswatch - Litera
-Fetch Api
+- VanillaJS
+- Bootswatch - Litera
+- Fetch Api
